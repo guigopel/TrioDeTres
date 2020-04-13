@@ -6,8 +6,8 @@ function sub(){
     //TODO: Implementar subtração
 }
 
-function mult(){
-    //TODO: Implementar multiplicação
+function mult(s1,s2){
+    return s1*s2;
 }
 
 function div(){
