@@ -20,3 +20,4 @@ obs: Mensagens de Comite devem ter o padrão do projeto.(se for possivel usar o 
 Membros do Projeto
 https://github.com/NatanaelGSSilva?tab=repositories
 https://github.com/guigopel
+https://github.com/bernardok9
