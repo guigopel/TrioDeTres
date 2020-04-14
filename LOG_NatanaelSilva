@@ -1,0 +1,33 @@
+   27  git clone https://github.com/guigopel/TrioDeTres
+   28  cd trioDeTres
+   29  git init 
+   30  git checkout -b feature/sum
+   31  git status
+   32  git add .
+   33  gitmoji -i 
+   34  git commit
+   35* 
+   36  git checkout -b feature/sub
+   37  git checkout master
+   38  git pull
+   39  git checkout feature/sub
+   40  git pull
+   41  git pull master
+   42  git pull origin master
+   43  git checkout feature/sub
+   44  git status
+   45  git add .
+   46  gitmoji -i
+   47  git commit
+   48  git push origin feature/sub
+   49  git checkout master
+   50  touch Readme.md
+   51  git status
+   52  git pull 
+   53  git status
+   54  git add .
+   55  gitmoji -i
+   56  git commit
+   57  touch history > LOG_Natanael.txt
+   58  history
+   59  history > LOG_NatanaelSilva
