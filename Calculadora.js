@@ -1,5 +1,6 @@
-function sum(){
+function sum(s1,s2){
     //TODO: Implementar soma
+    return s1+s2
 }
 
 function sub(){
@@ -7,6 +8,7 @@ function sub(){
 }
 
 function mult(s1,s2){
+    //TODO: Implementação multiplicação
     return s1*s2;
 }
 
