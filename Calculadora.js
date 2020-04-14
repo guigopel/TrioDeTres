@@ -8,7 +8,7 @@ function sub(){
 }
 
 function mult(s1,s2){
-    //TODO: Implementação multiplicação
+    //TODO: Implementação multiplicação 
     return s1*s2;
 }
 
