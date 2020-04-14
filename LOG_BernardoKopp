@@ -1,0 +1,500 @@
+   10  git add .
+   11  git commit -m "Tentativa de deixar em loop"
+   12  git push dev origin
+   13  git push
+   14  git push origin dev
+   15  exit
+   16  cd /e/
+   17  cd Documents/
+   18  cd NetBeansProjects/
+   19  cd galinhajunior/
+   20  git status
+   21  git add .
+   22  git commit -m "Algumas atribuições a mais no esqueleto"
+   23  git push origin dev
+   24  exit
+   25  cd /e/
+   26  cd Documents/
+   27  cd NetBeansProjects/
+   28  ls
+   29  cd Listas/
+   30  git clone https://github.com/bernardok9/Aep2.git
+   31  git status
+   32  git checkout -b dev master
+   33  git branch
+   34  git init
+   35  git checkout -b dev master
+   36  git branch
+   37  git echo "AEP II - Listas encadeadas Simples" > README.md
+   38  echo "AEP II - Listas encadeadas Simples" > README.md
+   39  git add README.md
+   40  git commit -m "Start"
+   41  git checkout -b dev master
+   42  git branch
+   43  git add .
+   44  git rm Aep2
+   45  git status
+   46  origin
+   47  git push origin dev
+   48  git push dev origin
+   49  git push
+   50  git push https://github.com/bernardok9/Aep2.git
+   51  git push https://github.com/bernardok9/Aep2.git master
+   52  git push https://github.com/bernardok9/Aep2.git dev
+   53  git add .
+   54  git status
+   55  git push https://github.com/bernardok9/Aep2.git dev
+   56  git add .
+   57  git status
+   58  git status
+   59  git rm Aep2
+   60  git add .
+   61  git push https://github.com/bernardok9/Aep2.git dev
+   62  git status
+   63  git add src
+   64  git status
+   65  git add .
+   66  git status
+   67  git add .
+   68  git status
+   69  git push https://github.com/bernardok9/Aep2.git dev
+   70  git add -u
+   71  git status
+   72  git push https://github.com/bernardok9/Aep2.git dev
+   73  git reset
+   74  git status
+   75  git add .
+   76  git status
+   77  git push https://github.com/bernardok9/Aep2.git dev
+   78  git reset
+   79  git add src
+   80  git add .
+   81  git commit -m "E lá vamos nós"
+   82  git push https://github.com/bernardok9/Aep2.git dev
+   83  exit
+   84  ls
+   85  cd Documents/
+   86  cd /e/
+   87  cd Documents/
+   88  cd NetBeansProjects/
+   89  ls
+   90  cd galinhajunior/
+   91  git status
+   92  git add.
+   93  git add .
+   94  git status
+   95  git commit -m "Adicionado comprar galo e removido password"
+   96  git push dev origin
+   97  git push dev https://github.com/bernardok9/ChickenNugget.git
+   98  git push https://github.com/bernardok9/ChickenNugget.git
+   99  dev
+  100  cd /e/
+  101  cd Documents/
+  102  cd NetBeansProjects/
+  103  cd galinhajunior/
+  104  git status
+  105  git add .
+  106  git commit -m "Adicionado galinha bot, funcao (batalhar, listar skill)"
+  107  git push
+  108  git push origin dev
+  109  exit
+  110  cd /e/
+  111  cd Documents/
+  112  cd NetBeansProjects/
+  113  cd galinhajunior/
+  114  git status
+  115  git add .
+  116  git commit -m "List para ArrayList, Iniciação nos testes."
+  117  git push dev origin
+  118  git push origin dev
+  119  exit
+  120  cd /e/
+  121  cd Documents/
+  122  cd NetBeansProjects/
+  123  ls
+  124  cd Listas
+  125  git checkout --help
+  126  git checkout -m master
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "Completo"
+  131  git push master origin
+  132  git push origin master
+  133  cd ..
+  134  ls
+  135  cd ListaEncadeada/
+  136  ls
+  137  ls
+  138  git pull origin dev
+  139  git pull dev origin
+  140  cd
+  141  cd /e/
+  142  cd Documents/
+  143  cd NetBeansProjects/
+  144  cd Lista
+  145  cd Listas
+  146  git pull dev origin
+  147  git pull origin dev
+  148  git clone
+  149  git clone origin
+  150  cd..
+  151  cd ..
+  152  git clone https://github.com/bernardok9/Aep2.git
+  153  git checkout -m dev
+  154  ls
+  155  cd aep2
+  156  ls
+  157  git checkout -m dev
+  158  git pull origin dev
+  159  git status
+  160  git checkout -m master
+  161  git checkout -m dev
+  162  git status
+  163  git commit -m "Final"
+  164  git push origin master
+  165  git checkout -m master
+  166  git checkout -m dev
+  167  cat README.md > echo "Trabalho finalizado"
+  168  cat README.md
+  169  echo "AEP II - Listas Encadeadas Simples"
+  170  echo "AEP II - Listas Encadeadas Simples" > README.md
+  171  mkdir ~/
+  172  mkdir ~/Site
+  173  cd ~/Site
+  174  git init
+  175  touch index.html
+  176  code .
+  177  git config --list
+  178  cd ..
+  179  mkdir ~/ExerciciosJS-1-Sem
+  180  cd ExerciciosJS-1-Sem/
+  181  git init
+  182  code .
+  183  echo "Simulado da Prova de \"Lógica de Programação\"." >> Readme.md
+  184  ls
+  185  git status
+  186  git add .
+  187  git status
+  188  mv Readme.md README.md
+  189  ls
+  190  git add .
+  191  git commit -m "Arquivos do Simulado do 1°Sem"
+  192  git status
+  193  git add .
+  194  ls
+  195  git status
+  196  git commit -m "README levemente estruturado e exclusão do bloco de notas"
+  197  git status
+  198  git push
+  199  git push https://github.com/bernardok9/1-Semestre-LogicaProgramacao.git
+  200  git remote add origin https://github.com/bernardok9/1-Semestre-LogicaProgramacao.git
+  201  git push -u origin master
+  202  git status
+  203  git add .
+  204  git commit -m "README levemente estruturado e exclusão do bloco de notas" --amend
+  205  git push -u origin master
+  206  git status
+  207  git status
+  208  git add .
+  209  git commit -m "Adicionado Pasta para inserir os anunciados futuramente"
+  210  git push -u origin master
+  211  git push
+  212  git pull origin master
+  213  git status
+  214  git add.
+  215  cd ~/ExerciciosJS-1-Sem/
+  216  ls
+  217  git status
+  218  git add .
+  219  git status
+  220  gid commit -m "Readme arrumado"
+  221  git commit -m "Readme arrumado"
+  222  git status
+  223  git push -u origin master
+  224  ls
+  225  cd ~/
+  226  cd Users
+  227  ls
+  228  clear
+  229  ls
+  230  mkdir ~/TrabFinalLdP
+  231  cd ~/TrabFinalLdP/
+  232  git init
+  233  code .
+  234  touch README.md
+  235  git add .
+  236  git commit -m "Trabalho final completo."
+  237  git remote add origin https://github.com/bernardok9/LogicaDeProgramacaoTrabFinal.git
+  238  git push -u origin master
+  239  mkdir ~/pi2-Ex1
+  240  cd ~/pi2-Ex1/
+  241  php -v
+  242  php 
+  243  node ES6.js 
+  244  node ES6.js 
+  245  node ES6.js 
+  246  node ES6.js 
+  247  node ES6.js 
+  248  node ES6.js 
+  249  node ES6.js 
+  250  node ES6.js 
+  251  node ES6.js 
+  252  node ES6.js 
+  253  node ES6.js 
+  254  node ES6.js 
+  255  node ES6.js 
+  256  node ES6.js 
+  257  node ES6.js 
+  258  node ES6.js 
+  259  node ES6.js 
+  260  node ES6.js 
+  261  node ES6.js 
+  262  node ES6.js 
+  263  node ES6.js 
+  264  node ES6.js 
+  265  node ES6.js 
+  266  node ES6.js 
+  267  node ES6.js 
+  268  clear
+  269  node ES6.js 
+  270  clear
+  271  clear
+  272  node ES6.js 
+  273  node ES6.js 
+  274  clear
+  275  node ES6.js 
+  276  node ES6.js 
+  277  node ES6.js 
+  278  node ES6.js 
+  279  node ES6.js 
+  280  node ES6.js 
+  281  node ES6.js 
+  282  node ES6.js 
+  283  node ES6.js 
+  284  node ES6.js 
+  285  node ES6.js 
+  286  node ES6.js 
+  287  node ES6.js 
+  288  node ES6.js 
+  289  node ES6.js 
+  290  node ES6.js 
+  291  node ES6.js 
+  292  node ES6.js 
+  293  node ES6.js 
+  294  node ES6.js 
+  295  node ES6.js 
+  296  node ES6.js 
+  297  node ES6.js 
+  298  node ES6.js 
+  299  node ES6.js 
+  300  node ES6.js 
+  301  node ES6.js 
+  302  node ES6.js 
+  303  node ES6.js 
+  304  node ES6.js 
+  305  node ES6.js 
+  306  node ES6.js 
+  307  node ES6.js 
+  308  node ES6.js 
+  309  git init
+  310  touch README.md
+  311  git add ES6.js 
+  312  git add README.md 
+  313  git commit -m "Exercícios + Readme"
+  314  git remote add origin https://github.com/bernardok9/ES6.git
+  315  git push -u origin master
+  316  exit
+  317  "C:/Users/Cliente TESPI/AppData/Local/Programs/Python/Python38-32/python.exe" "c:/Users/Cliente TESPI/Macros/PokeCordMacro.py"
+  318  python PokeCordMacro.py 
+  319  a
+  320  a
+  321  python PokeCordMacro.py 
+  322  a
+  323  python PokeCordMacro.py 
+  324  python PokeCordMacro.py 
+  325  python PokeCordMacro.py 
+  326  python PokeCordMacro.py 
+  327  python PokeCordMacro.py 
+  328  python PokeCordMacro.py 
+  329  python PokeCordMacro.py 
+  330  ls
+  331  cd ~/Desktop
+  332  ls
+  333  rm -rf .git
+  334  ls
+  335  cd E:/
+  336  cd ~/desktop
+  337  ls
+  338  cd E:/~/desktop
+  339  ls
+  340  cd E:/~/Desktop
+  341  e
+  342  e:
+  343  cd e
+  344  cd e:
+  345  ls
+  346  cd Desktop/
+  347  ls
+  348  cd test\ git/
+  349  ls
+  350  git init
+  351  echo "Ola mundo">>README.md
+  352  ls
+  353  git add .
+  354  ls
+  355  git status
+  356  git push origin master
+  357  git remote add origin https://github.com/bernardok9/test.git
+  358  git commit -m "first"
+  359  git push -u origin master
+  360  git checkout -b /dev
+  361  git checkout -b dev
+  362  git checkout master
+  363  git checkout dev
+  364  git checkout -b dev/soma
+  365  git checkout -b /dev/soma
+  366  git checkout -b dev\soma
+  367  git checkout dev
+  368  git checkout -b feature/div
+  369  git checkout -b feature/soma
+  370  git branches
+  371  git branch
+  372  git branch -d devsoma 
+  373  git branch
+  374  git checkout dev
+  375  git merge feature/div
+  376  git branch
+  377  git checkout feature/div
+  378  echo "Olá pessoas, tudo bem?">>Arquivo.txt
+  379  ls
+  380  git checkout dev
+  381  git merge feature/div
+  382  ls
+  383  ls
+  384  git checkout dev/soma
+  385  git checkout feature/soma 
+  386  ls
+  387  git add .
+  388  git status
+  389  git commit -m "adicionado arquivo.txt"
+  390  git status
+  391  git checkout dev
+  392  ls
+  393  git merge feature/soma
+  394  ls
+  395  git checkout feature/div 
+  396  ls
+  397  git checkout dev
+  398  ls
+  399  git push origin master
+  400  git status
+  401  git add .
+  402  git status
+  403  ls
+  404  git checkout master
+  405  ls
+  406  git status
+  407  git merge dev
+  408  git status
+  409  git push origin dev
+  410  git checkout dev
+  411  touch omgboy.txt
+  412  git add .
+  413  git status
+  414  git commit -m "omg boy"
+  415  git push origin dev
+  416  git checkout master
+  417  git merge dev
+  418  git push origin dev
+  419  git status
+  420  ls
+  421  git push -u origin dev
+  422  git push -u origin master
+  423  ls
+  424  git status
+  425  git add .
+  426  git commit -m "merge indo"
+  427  git push origin master
+  428  git push --help
+  429  git push -f origin master
+  430  git log --oneline
+  431  git reflog
+  432  it gs
+  433  gita
+  434  da
+  435  a
+  436  cd ~/
+  437  mkdir prova
+  438  cd ~/prova/
+  439  git clone https://github.com/guigopel/TrioDeTres.git
+  440  git tag v1.0.0
+  441  git init
+  442  git tag v1.0.0
+  443  git commit -m ":bookmark: Adicionado versão v1.0.0 na tag"
+  444  git add .
+  445  ls
+  446  git status
+  447  git commit -m ":bookmark: Adicionado versão v1.0.0 na tag"
+  448  git tag v1.0.0
+  449  git origin master add https://github.com/guigopel/TrioDeTres.git
+  450  git remote add origin https://github.com/guigopel/TrioDeTres.git
+  451  git push origin
+  452  git push origin master
+  453  git pull origin master
+  454  git log --oneline
+  455  git push origin master
+  456  git log --oneline
+  457  git pull origin master
+  458  git clone fatal: refusing to merge unrelated histories
+  459  git clone fatal: refusing to merge unrelated histories
+  460  git clone https://github.com/guigopel/TrioDeTres.git
+  461  git clone https://github.com/guigopel/TrioDeTres.git
+  462  git add .
+  463  git tag v1.0.0
+  464  git log --oneline
+  465  git cherry-pick dafd7a7
+  466  cd ~/prova
+  467  git rm -rf
+  468  git rm -rf
+  469  a
+  470  git init
+  471  git clone https://github.com/guigopel/TrioDeTres.git
+  472  git init
+  473  git add .
+  474  git rm -rf
+  475  cd ~/prova/
+  476  ls
+  477  git clone https://github.com/guigopel/TrioDeTres.git
+  478  git add .
+  479  git status
+  480  git rm .
+  481  git remove .
+  482  git status
+  483  ls
+  484  git status
+  485  git status
+  486  cd ~/prova
+  487  git init
+  488  ls
+  489  git add .
+  490  git status
+  491  git tag v1.0.0
+  492  git commit -m ":bookmark: Adicionado a versão v1.0.0 do projeto"
+  493  git tag v1.0.0
+  494  git push origin https://github.com/guigopel/TrioDeTres.git
+  495  git remote add master https://github.com/guigopel/TrioDeTres.git
+  496  git push origin master
+  497  git branch
+  498  cd TrioDeTres/
+  499  git branch
+  500  cd ~/prova/
+  501  cd TrioDeTres/
+  502  git add .
+  503  git commit -m ":bookmark: Adicionado tag de versão do projeto v1.0.0"
+  504  git tag v1.0.0
+  505  git commit -m ":bookmark: Adicionado tag de versão do projeto v1.0.0"
+  506  git log --oneline
+  507  git push origin master
+  508  git pull origin master
+  509  history > LOG_BernardoKopp
