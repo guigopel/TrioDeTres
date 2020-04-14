@@ -1,0 +1,47 @@
+    1  git init
+    2  git clone https://github.com/guigopel/TrioDeTres
+    3  git checkout -b feature/mult
+    4  git status
+    5  cd TrioDeTres/
+    6  git status
+    7  git add .
+    8  git status
+    9  gitmoji -l|less
+   10  gitmoji -i
+   11  git commit
+   12  git push origin feature/mult
+   13  git add .
+   14  git status
+   15  git push
+   16  git pull
+   17  git checkout master
+   18  git status
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit
+   23  git push origin feature/mult
+   24  git checkout feature/mult
+   25  git checkout -b feature/mult
+   26  git status
+   27  git add .
+   28  git commit
+   29  git push origin feature/mult
+   30  git checkout -b feature/div
+   31  gitmoji -i
+   32  git pull origin master
+   33  git checkout master
+   34  git add .
+   35  git status
+   36  git pull origin master
+   37  git commit
+   38  git pull origin master
+   39  git status
+   40  git checkout feature/div
+   41  git add .
+   42  git commit
+   43  git status
+   44  git push origin feature/div
+   45  git checkout master
+   46  git pull origin master
+   47  history > LOG_GuilhermeAzambuja
